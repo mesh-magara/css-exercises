@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd {
+  background-color: lightpink;
+  font-family: "Verdana", "DejaVu Sans", "san-serif";
+}
+#even-2 {
+  color: blue;
+  font-size: 36px;
+}
+#even-4 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
+.three {
+  font-size: 24px;
+}
