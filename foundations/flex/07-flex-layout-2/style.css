@@ -70,7 +70,8 @@ body {
   margin: 1.5rem;
   height: auto;
   width: 300px;
-  font-weight: bold;
+  color: black;
+  line-height: 1.2;
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.06);
   border-radius: 4px;
